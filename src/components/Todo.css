@@ -1,0 +1,31 @@
+
+
+body{
+background: #fff;
+}
+
+.todo-container{
+background: #fff;
+width: 40vw;
+margin: 10em auto;
+border-radius: 15px;
+padding: 20px 10px;
+color: #000;
+border: 3px solid #1158C4;
+}
+    
+.task{
+border: 1px solid white;
+border-radius: 5px;
+padding: 0.5em;
+margin: 0.5em;
+}
+
+.create-task input[type=text]{
+margin: 2.5em 0;
+width: 90%;
+outline: none;
+border: 2px solid #1158C4;
+border-radius:5px;
+padding: 0.7em;
+}

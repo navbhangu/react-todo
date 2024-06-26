@@ -1,0 +1,11 @@
+
+
+.filter-btns button{
+background: #1158C4;
+border-radius: 5px;
+margin: 0px 5px;
+padding: 3px 5px;
+border: none;
+cursor: pointer;
+color: white;
+}
